@@ -1,0 +1,19 @@
+{
+  "name": "reduce-stream-to-promise",
+  "version": "1.0.2",
+  "description": "Reduce a stream to a promise by the given reduction function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stream",
+    "promise",
+    "reduce",
+    "functional",
+    "fold",
+    "inject"
+  ],
+  "author": "Alex Watt <alex@alexwatt.org> (http://www.alexwatt.org)",
+  "license": "MIT"
+}
