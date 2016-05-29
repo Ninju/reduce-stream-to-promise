@@ -8,4 +8,4 @@ function concat(acc, curr) {
 }
 
 reduceStream(concat, '', stream).then(result => console.log(result))
-```javascript
+```
