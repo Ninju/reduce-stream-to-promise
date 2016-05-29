@@ -2,7 +2,7 @@
 
 ## Usage
 
-```javascript
+```
 let reduceStream = require('reduce-stream-to-promise')
 
 function concat(acc, curr) { 
