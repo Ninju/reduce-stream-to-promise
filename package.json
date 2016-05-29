@@ -1,6 +1,6 @@
 {
   "name": "reduce-stream-to-promise",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Reduce a stream to a promise by the given reduction function",
   "main": "index.js",
   "scripts": {
